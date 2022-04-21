@@ -1,5 +1,5 @@
 はい　みんな。チアゴ　です。よろしく 🙋‍♂️ <br>
-Olá! Eu sou Thiago,  muinto prazer
+Olá! Eu sou Thiago,  muito prazer
 ##
 
 - 🌱 I’m currently learning  HTML, CSS e JavaScript
